@@ -1,9 +1,0 @@
-La actividad consistió en desarrollar un sistema de gestión de películas empleando la estructura de datos **Lista Doblemente Ligada**. El programa cargó datos desde un archivo `.csv`, donde ca
-da nodo almacenaba la información completa de una película, permitiendo un fácil recorrido hacia adelante y hacia atrás. Se implementaron funcionalidades clave como la carga inicial, la búsqueda por título/actor, y la gestión de películas (inserción, eliminación y actualización). Este ejercicio fue crucial para comprender la ventaja de las listas ligadas sobre los arreglos en la gestión de datos dinámicos, demostrando la eficiencia en 
-la inserción y eliminación, y consolidando el conocimiento sobre el manejo de **punteros** y memoria dinámica.
-
-
-
-
-
-
