@@ -1,1 +1,1 @@
-
+En esta actividad desarrollamos un parser de expresiones aritméticas utilizando **Pilas**. El programa convierte expresiones de notación **infija** a **postfija** y las evalúa, procesando datos desde `exp_infijas.txt` hacia `exp_postfijas.txt`. Este ejercicio evidenció la utilidad práctica de la estructura **LIFO** para manejar la precedencia de operadores y simplificar evaluaciones matemáticas, consolidando la teoría vista en clase.
